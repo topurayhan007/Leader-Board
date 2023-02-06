@@ -1,0 +1,45 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #f3f1ff;
+}
+header {
+  background: #562eff;
+}
+main {
+  width: 870px;
+  margin: 0 auto;
+}
+
+/* Navigation Bar Section */
+
+nav {
+  width: 870px;
+  padding: 12px 0;
+  margin: 0 auto;
+  color: #ffffff;
+}
+nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 36px;
+  align-items: center;
+  justify-content: center;
+}
+.nav-brand {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  margin-right: auto;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+}
+.logo {
+  width: 40.42px;
+}
